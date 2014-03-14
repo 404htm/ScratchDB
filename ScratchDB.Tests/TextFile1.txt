@@ -1,0 +1,2 @@
+﻿http://stackoverflow.com/questions/22393486/c-sharp-linq-grouping-and-join-date-hours-ranges
+http://stackoverflow.com/questions/22395208/linq-query-to-get-record-with-maximum-values
