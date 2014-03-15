@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ScratchDB
+namespace ScratchDB.Parsers
 {
-    public class SchemaInfo
+    class File
     {
-
     }
 }
